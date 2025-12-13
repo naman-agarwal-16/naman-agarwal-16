@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on sharpening my Data Structures & Algorithms skills in C++ and building automation scripts.<br>👯 I’m looking to collaborate on open source Python projects or beginner-friendly Web Development tools.<br>🤝 I’m looking for help with understanding advanced System Design concepts and scalable backend architecture.<br>🌱 I’m currently learning TypeScript frameworks and exploring how to integrate AI tools into development workflows.<br>💬 Ask me about C++, logic building, and how I use Python to automate daily tasks.<br>⚡ Fun fact : I treat debugging like a detective game
 
+### 🏆 Achievements
+- **Smart India Hackathon (SIH) Grand Finalist**: Selected for the national grand finale 2025, competing among top student teams to solve real-world problems.
+- **MNIT Sphinx Top 15**: Secured a top rank in the Projectathon during my first semester against senior competitors.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naman-agarwal-8b2a84360/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aganaman16@gmail.com) 
@@ -12,10 +15,32 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Agent05-code&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agent05-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🚀 Projects
+
+**🎓 Prashikshan (SIH 2025 Grand Finalist)**
+> *Theme: Smart Education / Skill Development | NEP-2020 Compliant*
+
+**Status:** 🚧 **Active Development** (Selected for the Grand Finale; currently scaling the authentication and verification modules.)
+
+* **The Problem:** A massive gap exists between academic learning and industry requirements. Despite NEP-2020 guidelines, colleges struggle to provide real internships, students lack job-readiness, and teachers cannot easily track skill progression.
+* **The Solution:** A **Unified Open-Platform** connecting Students, Faculty, and Industry with strict verification standards.
+    * **Smart Authentication:** Implemented a unique dual-login system:
+        * **For Students:** Integrated **APAAR ID** (Automated Permanent Academic Account Registry) for verified, lifelong academic tracking.
+        * **For Faculty & Industry:** Restricted access via **Organization Emails** to ensure legitimacy and prevent fake internship listings.
+    * **Student Dashboard:** A centralized space to access courses, track skill growth, and apply for verified internships.
+    * **Faculty & College Panel:** Enables teachers to manage classrooms and maintain digital training records for NEP compliance.
+    * **Industry Portal:** Allows companies to hire skilled talent directly from verified student profiles.
+
+* **Tech Stack:**
+    * **Frontend:** React.js (Vite), Tailwind CSS, Framer Motion
+    * **Backend Services:** Supabase (Backend-as-a-Service)
+    * **Database:** PostgreSQL (via Supabase)
+    * **Auth:** Supabase Auth (Custom RLS policies for APAAR ID & Organization Email verification)
+      
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Agent05-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
